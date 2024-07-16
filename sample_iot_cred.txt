@@ -1,0 +1,8 @@
+{
+ "org": "IBM ORG data",
+ "type": "Type",
+ "id": "RaspPi",
+ "auth-method": "Enter Method",
+ "auth-token": "Enter Token Here",
+ "clean-session": "true"
+ }
